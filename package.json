@@ -2,7 +2,7 @@
   "name": "mydao",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kdkishwor.github.io/buildspace-dao-starter/",
+  "homepage": "https://kdkishwor.github.io",
   "engines": {
     "node": ">=16.0.0"
   },
